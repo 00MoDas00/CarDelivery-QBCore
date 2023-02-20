@@ -1,6 +1,6 @@
-## Skript CarDelivery na QBCore Framework. 
+## Skript CarDelivery na QBCore Framework. ##
 
- Začněte misi pro dodávku auta, ukradněte auto, dojeďte s ním na místo určení a vydělávejte.
+- Začněte misi pro dodávku auta, ukradněte auto, dojeďte s ním na místo určení a vydělávejte.
 
 ## Funkce ##
 
