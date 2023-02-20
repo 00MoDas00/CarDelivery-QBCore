@@ -54,9 +54,5 @@ Jakmile dorazíte do cíle, zastavte auto uvnitř cíle na mini mapě. Práce sk
 
 ## Podpora ##
 
-Pokud mě chcete jakýmkoli způsobem podpořit, můžete tak učinit prostřednictvím tohoto odkazu -> [Streamelements donos](https://streamelements.com/hiype/tip)<br>
-Tento odkaz vás přesměruje na darovací stránku Streamelements, která zobrazuje dar v mém streamu na youtube, pokud jsem živě<br>
-P.S. Žiju jen zřídka a tohle bylo prostě jednodušší
-
-
-
+- Chcete mě podpořit, nebo s něčím pomoci? 
+- Můžete tak učinit prostřednictvím Discordu kde ti pomůžu, nebo pokud mě budeš chtít podpořit, zašlu jak to je možné [Discord] --> MoDas#6969 <--
