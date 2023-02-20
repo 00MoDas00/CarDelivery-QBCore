@@ -57,4 +57,4 @@
 ## Podpora ##
 
 - Chcete mě podpořit, nebo s něčím pomoci? 
-- Můžete tak učinit prostřednictvím Discordu kde ti pomůžu, nebo pokud mě budeš chtít podpořit, zašlu jak to je možné -> [Discord=MoDas#6969]
+- Můžete tak učinit prostřednictvím Discordu kde ti pomůžu, nebo pokud mě budeš chtít podpořit, zašlu jak to je možné [Discord] --> MoDas#6969 <--
